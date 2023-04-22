@@ -2,7 +2,7 @@
 
 public class Task2 {
     public static void main(String[] args) {
-        for (int number = 2; number < 20; number++) {
+        for (int number = 2; number < 100; number++) {
 
             Boolean flag = true;
             int j = 2;
